@@ -1,0 +1,7 @@
+{
+  "name": "Relatório de Execução",
+  "description": "Gerador de relatórios offline para manutenção e automação - Mina Serra Sul.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
